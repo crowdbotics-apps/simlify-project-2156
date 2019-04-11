@@ -1,0 +1,3 @@
+rootProject.name = 'simlify_project_2156'
+
+include ':app'
